@@ -1,7 +1,8 @@
+This is code for a 5th year technology project. It is for a UV lamp for santiasation. 
+This lamp code dosen't have times
 
 > Open this page at [https://derv6464.github.io/usablelamp/](https://derv6464.github.io/usablelamp/)
 
-This lamp code dosen't have times
 
 ## Use as Extension
 
